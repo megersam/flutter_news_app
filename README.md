@@ -1,4 +1,4 @@
-# urji_news
+# News Apps using newsapi
 
 A new Flutter project.
 
